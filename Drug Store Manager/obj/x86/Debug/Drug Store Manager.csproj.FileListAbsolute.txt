@@ -1,0 +1,71 @@
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\bin\Debug\Drug Store Manager.exe
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\bin\Debug\Drug Store Manager.pdb
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Properties.Resources.resources
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\obj\x86\Debug\Drug Store Manager.csproj.GenerateResource.Cache
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\obj\x86\Debug\Drug Store Manager.exe
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\obj\x86\Debug\Drug Store Manager.pdb
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Form1.resources
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Home.resources
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\bin\Debug\DrugStoreDB.sdf
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\bin\Debug\Drug Store Manager.exe.config
+C:\Users\Fahim\AppData\Local\Temporary Projects\Drug Store Manager\obj\x86\Debug\Drug Store Manager.csprojResolveAssemblyReference.cache
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\bin\Debug\Drug Store Manager.exe.config
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.exe
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.pdb
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\bin\Debug\DrugStoreDB.sdf
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\bin\Debug\Drug Store Manager.exe
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\bin\Debug\Drug Store Manager.pdb
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.csprojResolveAssemblyReference.cache
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Form1.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Home.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Properties.Resources.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.csproj.GenerateResource.Cache
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Employees.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Companies.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Sections.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Representatives.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Products.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Stock.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Purchase.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.SelectProduct.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Transactions.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.TransactionInfo.resources
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\bin\Debug\itextsharp.dll
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\bin\Debug\itextsharp.xtra.dll
+C:\Users\Fahim\documents\visual studio 2010\Projects\Drug Store Manager\Drug Store Manager\bin\Debug\itextsharp.xml
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\bin\Debug\Drug Store Manager.exe.config
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.exe
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.pdb
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\bin\Debug\DrugStoreDB.sdf
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\bin\Debug\Drug Store Manager.exe
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\bin\Debug\Drug Store Manager.pdb
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\bin\Debug\itextsharp.dll
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\bin\Debug\itextsharp.pdfa.dll
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\bin\Debug\itextsharp.xtra.dll
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\bin\Debug\itextsharp.xml
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.csprojResolveAssemblyReference.cache
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Companies.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Employees.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Form1.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Home.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Products.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Properties.Resources.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Purchase.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Representatives.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Sections.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.SelectProduct.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Stock.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.TransactionInfo.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Transactions.resources
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.csproj.GenerateResource.Cache
+H:\Project\Drug Store\versions\finalizing\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Sell.resources
+C:\Users\Fahim\Documents\Visual Studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Sell.resources
+C:\Users\Fahim\Documents\Visual Studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.AboutUs.resources
+C:\Users\Fahim\Documents\Visual Studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.CircularProgressBar.resources
+C:\Users\Fahim\Documents\Visual Studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.OwnerHome.resources
+C:\Users\Fahim\Documents\Visual Studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.ControlEmployee.resources
+C:\Users\Fahim\Documents\Visual Studio 2010\Projects\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug_Store_Manager.Report.resources
+H:\Project\Drug Store\versions\___Final\Drug Store Manager\Drug Store Manager\bin\Debug\Drug Store Manager.exe.config
+H:\Project\Drug Store\versions\___Final\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.exe
+H:\Project\Drug Store\versions\___Final\Drug Store Manager\Drug Store Manager\obj\x86\Debug\Drug Store Manager.pdb
